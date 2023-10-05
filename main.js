@@ -1,1 +1,1 @@
-console.log('Hlooo')
+const newfile = 'newfile'
